@@ -10,3 +10,5 @@ Please refer the given Jupyter notebooks in the below given order:
 3) Adding More Features.ipynb
 4) Extracting Movie Specific Features (API).ipynb
 5) Results.ipynb
+
+Authors: [Abhijith Ragav](https://github.com/abhijithragav), [Sai Vishwanath Venkatesh](https://github.com/skullsai), Ramanathan Murugappan, Vineeth Vijayaraghavan
