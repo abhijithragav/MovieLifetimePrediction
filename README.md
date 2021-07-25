@@ -11,4 +11,4 @@ Please refer the given Jupyter notebooks in the below given order:
 4) Extracting Movie Specific Features (API).ipynb
 5) Results.ipynb
 
-Authors: [Abhijith Ragav](https://github.com/abhijithragav), [Sai Vishwanath Venkatesh](https://github.com/saivishy), Ramanathan Murugappan, Vineeth Vijayaraghavan
+Authors: [Abhijith Ragav](https://github.com/abhijithragav), [Sai Vishwanath Venkatesh](https://github.com/saivishy), [Ramanathan Murugappan](https://github.com/ramanathanmurugappan), Vineeth Vijayaraghavan
